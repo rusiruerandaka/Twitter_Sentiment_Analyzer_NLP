@@ -1,0 +1,212 @@
+text,sentiment
+I love spending time with my family!,1
+This is the best day of my life!,1
+Feeling so blessed and grateful today.,1
+"Amazing weather today, perfect for a walk!",1
+"Just got promoted at work, so happy!",1
+Had a delicious meal at my favorite restaurant.,1
+Just saw the cutest puppy at the park!,1
+Life is beautiful when you're surrounded by love.,1
+"Finally achieved my fitness goals, feeling great!",1
+"Watching my favorite movie with popcorn, bliss!",1
+I can't believe I failed the exam again.,0
+Feeling so lonely and lost right now.,0
+"It's been raining all day, so depressing.",0
+Missed the bus and now I'm late for work.,0
+Received some really bad news today.,0
+Why does everything have to be so difficult?,0
+Feeling heartbroken after our fight.,0
+I wish things would get better soon.,0
+"Lost my wallet, now my whole day is ruined.",0
+Feeling so overwhelmed and stressed out.,0
+"Watching my favorite movie with popcorn, bliss! #9",1
+I can't believe I failed the exam again. #10,0
+Feeling so lonely and lost right now. #11,0
+"It's been raining all day, so depressing. #12",0
+Missed the bus and now I'm late for work. #13,0
+Received some really bad news today. #14,0
+Why does everything have to be so difficult? #15,0
+Feeling heartbroken after our fight. #16,0
+I wish things would get better soon. #17,0
+"Lost my wallet, now my whole day is ruined. #18",0
+Feeling so overwhelmed and stressed out. #19,0
+"Watching my favorite movie with popcorn, bliss! #9 #20",1
+I can't believe I failed the exam again. #10 #21,0
+Feeling so lonely and lost right now. #11 #22,0
+"It's been raining all day, so depressing. #12 #23",0
+Missed the bus and now I'm late for work. #13 #24,0
+Received some really bad news today. #14 #25,0
+Why does everything have to be so difficult? #15 #26,0
+Feeling heartbroken after our fight. #16 #27,0
+I wish things would get better soon. #17 #28,0
+"Lost my wallet, now my whole day is ruined. #18 #29",0
+Feeling so overwhelmed and stressed out. #19 #30,0
+"Watching my favorite movie with popcorn, bliss! #9 #20 #31",1
+I can't believe I failed the exam again. #10 #21 #32,0
+Feeling so lonely and lost right now. #11 #22 #33,0
+"It's been raining all day, so depressing. #12 #23 #34",0
+Missed the bus and now I'm late for work. #13 #24 #35,0
+Received some really bad news today. #14 #25 #36,0
+Why does everything have to be so difficult? #15 #26 #37,0
+Feeling heartbroken after our fight. #16 #27 #38,0
+I wish things would get better soon. #17 #28 #39,0
+"Lost my wallet, now my whole day is ruined. #18 #29 #40",0
+Feeling so overwhelmed and stressed out. #19 #30 #41,0
+"Watching my favorite movie with popcorn, bliss! #9 #20 #31 #42",1
+I can't believe I failed the exam again. #10 #21 #32 #43,0
+Feeling so lonely and lost right now. #11 #22 #33 #44,0
+"It's been raining all day, so depressing. #12 #23 #34 #45",0
+Missed the bus and now I'm late for work. #13 #24 #35 #46,0
+Received some really bad news today. #14 #25 #36 #47,0
+Why does everything have to be so difficult? #15 #26 #37 #48,0
+Feeling heartbroken after our fight. #16 #27 #38 #49,0
+I wish things would get better soon. #17 #28 #39 #50,0
+"Lost my wallet, now my whole day is ruined. #18 #29 #40 #51",0
+Feeling so overwhelmed and stressed out. #19 #30 #41 #52,0
+"Watching my favorite movie with popcorn, bliss! #9 #20 #31 #42 #53",1
+I can't believe I failed the exam again. #10 #21 #32 #43 #54,0
+Feeling so lonely and lost right now. #11 #22 #33 #44 #55,0
+"It's been raining all day, so depressing. #12 #23 #34 #45 #56",0
+Missed the bus and now I'm late for work. #13 #24 #35 #46 #57,0
+Received some really bad news today. #14 #25 #36 #47 #58,0
+Why does everything have to be so difficult? #15 #26 #37 #48 #59,0
+Feeling heartbroken after our fight. #16 #27 #38 #49 #60,0
+I wish things would get better soon. #17 #28 #39 #50 #61,0
+"Lost my wallet, now my whole day is ruined. #18 #29 #40 #51 #62",0
+Feeling so overwhelmed and stressed out. #19 #30 #41 #52 #63,0
+"Watching my favorite movie with popcorn, bliss! #9 #20 #31 #42 #53 #64",1
+I can't believe I failed the exam again. #10 #21 #32 #43 #54 #65,0
+Feeling so lonely and lost right now. #11 #22 #33 #44 #55 #66,0
+"It's been raining all day, so depressing. #12 #23 #34 #45 #56 #67",0
+Missed the bus and now I'm late for work. #13 #24 #35 #46 #57 #68,0
+Received some really bad news today. #14 #25 #36 #47 #58 #69,0
+Why does everything have to be so difficult? #15 #26 #37 #48 #59 #70,0
+Feeling heartbroken after our fight. #16 #27 #38 #49 #60 #71,0
+I wish things would get better soon. #17 #28 #39 #50 #61 #72,0
+"Lost my wallet, now my whole day is ruined. #18 #29 #40 #51 #62 #73",0
+Feeling so overwhelmed and stressed out. #19 #30 #41 #52 #63 #74,0
+"Watching my favorite movie with popcorn, bliss! #9 #20 #31 #42 #53 #64 #75",1
+I can't believe I failed the exam again. #10 #21 #32 #43 #54 #65 #76,0
+Feeling so lonely and lost right now. #11 #22 #33 #44 #55 #66 #77,0
+"It's been raining all day, so depressing. #12 #23 #34 #45 #56 #67 #78",0
+Missed the bus and now I'm late for work. #13 #24 #35 #46 #57 #68 #79,0
+Received some really bad news today. #14 #25 #36 #47 #58 #69 #80,0
+Why does everything have to be so difficult? #15 #26 #37 #48 #59 #70 #81,0
+Feeling heartbroken after our fight. #16 #27 #38 #49 #60 #71 #82,0
+I wish things would get better soon. #17 #28 #39 #50 #61 #72 #83,0
+"Lost my wallet, now my whole day is ruined. #18 #29 #40 #51 #62 #73 #84",0
+Feeling so overwhelmed and stressed out. #19 #30 #41 #52 #63 #74 #85,0
+"Watching my favorite movie with popcorn, bliss! #9 #20 #31 #42 #53 #64 #75 #86",1
+I can't believe I failed the exam again. #10 #21 #32 #43 #54 #65 #76 #87,0
+Feeling so lonely and lost right now. #11 #22 #33 #44 #55 #66 #77 #88,0
+"It's been raining all day, so depressing. #12 #23 #34 #45 #56 #67 #78 #89",0
+Missed the bus and now I'm late for work. #13 #24 #35 #46 #57 #68 #79 #90,0
+Received some really bad news today. #14 #25 #36 #47 #58 #69 #80 #91,0
+Why does everything have to be so difficult? #15 #26 #37 #48 #59 #70 #81 #92,0
+Feeling heartbroken after our fight. #16 #27 #38 #49 #60 #71 #82 #93,0
+I wish things would get better soon. #17 #28 #39 #50 #61 #72 #83 #94,0
+"Lost my wallet, now my whole day is ruined. #18 #29 #40 #51 #62 #73 #84 #95",0
+Feeling so overwhelmed and stressed out. #19 #30 #41 #52 #63 #74 #85 #96,0
+"Watching my favorite movie with popcorn, bliss! #9 #20 #31 #42 #53 #64 #75 #86 #97",1
+I can't believe I failed the exam again. #10 #21 #32 #43 #54 #65 #76 #87 #98,0
+Feeling so lonely and lost right now. #11 #22 #33 #44 #55 #66 #77 #88 #99,0
+"It's been raining all day, so depressing. #12 #23 #34 #45 #56 #67 #78 #89 #100",0
+Missed the bus and now I'm late for work. #13 #24 #35 #46 #57 #68 #79 #90 #101,0
+Received some really bad news today. #14 #25 #36 #47 #58 #69 #80 #91 #102,0
+Why does everything have to be so difficult? #15 #26 #37 #48 #59 #70 #81 #92 #103,0
+Feeling heartbroken after our fight. #16 #27 #38 #49 #60 #71 #82 #93 #104,0
+I wish things would get better soon. #17 #28 #39 #50 #61 #72 #83 #94 #105,0
+"Lost my wallet, now my whole day is ruined. #18 #29 #40 #51 #62 #73 #84 #95 #106",0
+Feeling so overwhelmed and stressed out. #19 #30 #41 #52 #63 #74 #85 #96 #107,0
+"Watching my favorite movie with popcorn, bliss! #9 #20 #31 #42 #53 #64 #75 #86 #97 #108",1
+I can't believe I failed the exam again. #10 #21 #32 #43 #54 #65 #76 #87 #98 #109,0
+Feeling so lonely and lost right now. #11 #22 #33 #44 #55 #66 #77 #88 #99 #110,0
+"It's been raining all day, so depressing. #12 #23 #34 #45 #56 #67 #78 #89 #100 #111",0
+Missed the bus and now I'm late for work. #13 #24 #35 #46 #57 #68 #79 #90 #101 #112,0
+Received some really bad news today. #14 #25 #36 #47 #58 #69 #80 #91 #102 #113,0
+Why does everything have to be so difficult? #15 #26 #37 #48 #59 #70 #81 #92 #103 #114,0
+Feeling heartbroken after our fight. #16 #27 #38 #49 #60 #71 #82 #93 #104 #115,0
+I wish things would get better soon. #17 #28 #39 #50 #61 #72 #83 #94 #105 #116,0
+"Lost my wallet, now my whole day is ruined. #18 #29 #40 #51 #62 #73 #84 #95 #106 #117",0
+Feeling so overwhelmed and stressed out. #19 #30 #41 #52 #63 #74 #85 #96 #107 #118,0
+"Watching my favorite movie with popcorn, bliss! #9 #20 #31 #42 #53 #64 #75 #86 #97 #108 #119",1
+I can't believe I failed the exam again. #10 #21 #32 #43 #54 #65 #76 #87 #98 #109 #120,0
+Feeling so lonely and lost right now. #11 #22 #33 #44 #55 #66 #77 #88 #99 #110 #121,0
+"It's been raining all day, so depressing. #12 #23 #34 #45 #56 #67 #78 #89 #100 #111 #122",0
+Missed the bus and now I'm late for work. #13 #24 #35 #46 #57 #68 #79 #90 #101 #112 #123,0
+Received some really bad news today. #14 #25 #36 #47 #58 #69 #80 #91 #102 #113 #124,0
+Why does everything have to be so difficult? #15 #26 #37 #48 #59 #70 #81 #92 #103 #114 #125,0
+Feeling heartbroken after our fight. #16 #27 #38 #49 #60 #71 #82 #93 #104 #115 #126,0
+I wish things would get better soon. #17 #28 #39 #50 #61 #72 #83 #94 #105 #116 #127,0
+"Lost my wallet, now my whole day is ruined. #18 #29 #40 #51 #62 #73 #84 #95 #106 #117 #128",0
+Feeling so overwhelmed and stressed out. #19 #30 #41 #52 #63 #74 #85 #96 #107 #118 #129,0
+"Watching my favorite movie with popcorn, bliss! #9 #20 #31 #42 #53 #64 #75 #86 #97 #108 #119 #130",1
+I can't believe I failed the exam again. #10 #21 #32 #43 #54 #65 #76 #87 #98 #109 #120 #131,0
+Feeling so lonely and lost right now. #11 #22 #33 #44 #55 #66 #77 #88 #99 #110 #121 #132,0
+"It's been raining all day, so depressing. #12 #23 #34 #45 #56 #67 #78 #89 #100 #111 #122 #133",0
+Missed the bus and now I'm late for work. #13 #24 #35 #46 #57 #68 #79 #90 #101 #112 #123 #134,0
+Received some really bad news today. #14 #25 #36 #47 #58 #69 #80 #91 #102 #113 #124 #135,0
+Why does everything have to be so difficult? #15 #26 #37 #48 #59 #70 #81 #92 #103 #114 #125 #136,0
+Feeling heartbroken after our fight. #16 #27 #38 #49 #60 #71 #82 #93 #104 #115 #126 #137,0
+I wish things would get better soon. #17 #28 #39 #50 #61 #72 #83 #94 #105 #116 #127 #138,0
+"Lost my wallet, now my whole day is ruined. #18 #29 #40 #51 #62 #73 #84 #95 #106 #117 #128 #139",0
+Feeling so overwhelmed and stressed out. #19 #30 #41 #52 #63 #74 #85 #96 #107 #118 #129 #140,0
+"Watching my favorite movie with popcorn, bliss! #9 #20 #31 #42 #53 #64 #75 #86 #97 #108 #119 #130 #141",1
+I can't believe I failed the exam again. #10 #21 #32 #43 #54 #65 #76 #87 #98 #109 #120 #131 #142,0
+Feeling so lonely and lost right now. #11 #22 #33 #44 #55 #66 #77 #88 #99 #110 #121 #132 #143,0
+"It's been raining all day, so depressing. #12 #23 #34 #45 #56 #67 #78 #89 #100 #111 #122 #133 #144",0
+Missed the bus and now I'm late for work. #13 #24 #35 #46 #57 #68 #79 #90 #101 #112 #123 #134 #145,0
+Received some really bad news today. #14 #25 #36 #47 #58 #69 #80 #91 #102 #113 #124 #135 #146,0
+Why does everything have to be so difficult? #15 #26 #37 #48 #59 #70 #81 #92 #103 #114 #125 #136 #147,0
+Feeling heartbroken after our fight. #16 #27 #38 #49 #60 #71 #82 #93 #104 #115 #126 #137 #148,0
+I wish things would get better soon. #17 #28 #39 #50 #61 #72 #83 #94 #105 #116 #127 #138 #149,0
+"Lost my wallet, now my whole day is ruined. #18 #29 #40 #51 #62 #73 #84 #95 #106 #117 #128 #139 #150",0
+Feeling so overwhelmed and stressed out. #19 #30 #41 #52 #63 #74 #85 #96 #107 #118 #129 #140 #151,0
+"Watching my favorite movie with popcorn, bliss! #9 #20 #31 #42 #53 #64 #75 #86 #97 #108 #119 #130 #141 #152",1
+I can't believe I failed the exam again. #10 #21 #32 #43 #54 #65 #76 #87 #98 #109 #120 #131 #142 #153,0
+Feeling so lonely and lost right now. #11 #22 #33 #44 #55 #66 #77 #88 #99 #110 #121 #132 #143 #154,0
+"It's been raining all day, so depressing. #12 #23 #34 #45 #56 #67 #78 #89 #100 #111 #122 #133 #144 #155",0
+Missed the bus and now I'm late for work. #13 #24 #35 #46 #57 #68 #79 #90 #101 #112 #123 #134 #145 #156,0
+Received some really bad news today. #14 #25 #36 #47 #58 #69 #80 #91 #102 #113 #124 #135 #146 #157,0
+Why does everything have to be so difficult? #15 #26 #37 #48 #59 #70 #81 #92 #103 #114 #125 #136 #147 #158,0
+Feeling heartbroken after our fight. #16 #27 #38 #49 #60 #71 #82 #93 #104 #115 #126 #137 #148 #159,0
+I wish things would get better soon. #17 #28 #39 #50 #61 #72 #83 #94 #105 #116 #127 #138 #149 #160,0
+"Lost my wallet, now my whole day is ruined. #18 #29 #40 #51 #62 #73 #84 #95 #106 #117 #128 #139 #150 #161",0
+Feeling so overwhelmed and stressed out. #19 #30 #41 #52 #63 #74 #85 #96 #107 #118 #129 #140 #151 #162,0
+"Watching my favorite movie with popcorn, bliss! #9 #20 #31 #42 #53 #64 #75 #86 #97 #108 #119 #130 #141 #152 #163",1
+I can't believe I failed the exam again. #10 #21 #32 #43 #54 #65 #76 #87 #98 #109 #120 #131 #142 #153 #164,0
+Feeling so lonely and lost right now. #11 #22 #33 #44 #55 #66 #77 #88 #99 #110 #121 #132 #143 #154 #165,0
+"It's been raining all day, so depressing. #12 #23 #34 #45 #56 #67 #78 #89 #100 #111 #122 #133 #144 #155 #166",0
+Missed the bus and now I'm late for work. #13 #24 #35 #46 #57 #68 #79 #90 #101 #112 #123 #134 #145 #156 #167,0
+Received some really bad news today. #14 #25 #36 #47 #58 #69 #80 #91 #102 #113 #124 #135 #146 #157 #168,0
+Why does everything have to be so difficult? #15 #26 #37 #48 #59 #70 #81 #92 #103 #114 #125 #136 #147 #158 #169,0
+Feeling heartbroken after our fight. #16 #27 #38 #49 #60 #71 #82 #93 #104 #115 #126 #137 #148 #159 #170,0
+I wish things would get better soon. #17 #28 #39 #50 #61 #72 #83 #94 #105 #116 #127 #138 #149 #160 #171,0
+"Lost my wallet, now my whole day is ruined. #18 #29 #40 #51 #62 #73 #84 #95 #106 #117 #128 #139 #150 #161 #172",0
+Feeling so overwhelmed and stressed out. #19 #30 #41 #52 #63 #74 #85 #96 #107 #118 #129 #140 #151 #162 #173,0
+"Watching my favorite movie with popcorn, bliss! #9 #20 #31 #42 #53 #64 #75 #86 #97 #108 #119 #130 #141 #152 #163 #174",1
+I can't believe I failed the exam again. #10 #21 #32 #43 #54 #65 #76 #87 #98 #109 #120 #131 #142 #153 #164 #175,0
+Feeling so lonely and lost right now. #11 #22 #33 #44 #55 #66 #77 #88 #99 #110 #121 #132 #143 #154 #165 #176,0
+"It's been raining all day, so depressing. #12 #23 #34 #45 #56 #67 #78 #89 #100 #111 #122 #133 #144 #155 #166 #177",0
+Missed the bus and now I'm late for work. #13 #24 #35 #46 #57 #68 #79 #90 #101 #112 #123 #134 #145 #156 #167 #178,0
+Received some really bad news today. #14 #25 #36 #47 #58 #69 #80 #91 #102 #113 #124 #135 #146 #157 #168 #179,0
+Why does everything have to be so difficult? #15 #26 #37 #48 #59 #70 #81 #92 #103 #114 #125 #136 #147 #158 #169 #180,0
+Feeling heartbroken after our fight. #16 #27 #38 #49 #60 #71 #82 #93 #104 #115 #126 #137 #148 #159 #170 #181,0
+I wish things would get better soon. #17 #28 #39 #50 #61 #72 #83 #94 #105 #116 #127 #138 #149 #160 #171 #182,0
+"Lost my wallet, now my whole day is ruined. #18 #29 #40 #51 #62 #73 #84 #95 #106 #117 #128 #139 #150 #161 #172 #183",0
+Feeling so overwhelmed and stressed out. #19 #30 #41 #52 #63 #74 #85 #96 #107 #118 #129 #140 #151 #162 #173 #184,0
+"Watching my favorite movie with popcorn, bliss! #9 #20 #31 #42 #53 #64 #75 #86 #97 #108 #119 #130 #141 #152 #163 #174 #185",1
+I can't believe I failed the exam again. #10 #21 #32 #43 #54 #65 #76 #87 #98 #109 #120 #131 #142 #153 #164 #175 #186,0
+Feeling so lonely and lost right now. #11 #22 #33 #44 #55 #66 #77 #88 #99 #110 #121 #132 #143 #154 #165 #176 #187,0
+"It's been raining all day, so depressing. #12 #23 #34 #45 #56 #67 #78 #89 #100 #111 #122 #133 #144 #155 #166 #177 #188",0
+Missed the bus and now I'm late for work. #13 #24 #35 #46 #57 #68 #79 #90 #101 #112 #123 #134 #145 #156 #167 #178 #189,0
+Received some really bad news today. #14 #25 #36 #47 #58 #69 #80 #91 #102 #113 #124 #135 #146 #157 #168 #179 #190,0
+Why does everything have to be so difficult? #15 #26 #37 #48 #59 #70 #81 #92 #103 #114 #125 #136 #147 #158 #169 #180 #191,0
+Feeling heartbroken after our fight. #16 #27 #38 #49 #60 #71 #82 #93 #104 #115 #126 #137 #148 #159 #170 #181 #192,0
+I wish things would get better soon. #17 #28 #39 #50 #61 #72 #83 #94 #105 #116 #127 #138 #149 #160 #171 #182 #193,0
+"Lost my wallet, now my whole day is ruined. #18 #29 #40 #51 #62 #73 #84 #95 #106 #117 #128 #139 #150 #161 #172 #183 #194",0
+Feeling so overwhelmed and stressed out. #19 #30 #41 #52 #63 #74 #85 #96 #107 #118 #129 #140 #151 #162 #173 #184 #195,0
+"Watching my favorite movie with popcorn, bliss! #9 #20 #31 #42 #53 #64 #75 #86 #97 #108 #119 #130 #141 #152 #163 #174 #185 #196",1
+I can't believe I failed the exam again. #10 #21 #32 #43 #54 #65 #76 #87 #98 #109 #120 #131 #142 #153 #164 #175 #186 #197,0
+Feeling so lonely and lost right now. #11 #22 #33 #44 #55 #66 #77 #88 #99 #110 #121 #132 #143 #154 #165 #176 #187 #198,0
+"It's been raining all day, so depressing. #12 #23 #34 #45 #56 #67 #78 #89 #100 #111 #122 #133 #144 #155 #166 #177 #188 #199",0
